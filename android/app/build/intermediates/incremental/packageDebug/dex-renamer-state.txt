@@ -1,0 +1,7 @@
+#Sat Jul 21 16:46:02 EDT 2018
+base.0=/Users/kurtbruck/WebstormProjects/Okra/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf5505b2384b8ce0a0cc6eec19e94a3fe84c2c99
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/kurtbruck/WebstormProjects/Okra/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be9168df3b03b4aa507f736d3186e7c300777e7e/classes.dex
+base.1=/Users/kurtbruck/WebstormProjects/Okra/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be9168df3b03b4aa507f736d3186e7c300777e7e
+file.0=/Users/kurtbruck/WebstormProjects/Okra/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf5505b2384b8ce0a0cc6eec19e94a3fe84c2c99/classes.dex

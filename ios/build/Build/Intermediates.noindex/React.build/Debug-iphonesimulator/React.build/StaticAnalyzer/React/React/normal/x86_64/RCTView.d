@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Views/RCTView.m \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Views/RCTView.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Views/RCTBorderDrawing.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/kurtbruck/WebstormProjects/Okra/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/kurtbruck/WebstormProjects/Okra/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/kurtbruck/WebstormProjects/Okra/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/kurtbruck/WebstormProjects/Okra/node_modules/react-native/React/Modules/RCTI18nUtil.h
